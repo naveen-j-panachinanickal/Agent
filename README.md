@@ -19,8 +19,11 @@ The launcher will:
 
 Keep the Terminal window open while using the app.
 
+Use the `Model` selector in the sidebar to switch between installed Ollama models, or choose `Custom model...` to type another model name.
+Open `Model Manager` in the sidebar to view installed models, pull new models, or delete models you no longer need.
 The top-right sun/moon icon switches between Light and Dark mode.
 Use `Stop app and Ollama` in the sidebar when you want to shut everything down.
+Use `Attach files` above the chat box to send text, code, PDF, Word, Excel, XML, CSV, JSON, or image files with your next message.
 
 ## Manual Run
 
